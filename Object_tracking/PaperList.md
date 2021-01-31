@@ -29,12 +29,13 @@ Visual Tracking.
 - **SPARK**: Spatial-aware Online Incremental Attack Against Visual Tracking.
 - Efficient Adversarial Attacks for Visual Object Tracking.
 
-### NIPS
 ### AAAI
 - Discriminative and Robust Online Learning for Siamese Visual Tracking.
 - Exploiting Spatial Invariance for Scalable Unsupervised Object Tracking.
 - **GlobalTrack**: A Simple and Strong Baseline for Long-term Tracking.
 - **SiamFC++**: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines
+- Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning
+- **SPSTracker**: Sub-Peak Suppression of Response Map for Robust Object Tracking
 
 ## 2019年
 
@@ -50,4 +51,11 @@ Visual Tracking.
 
 
 ## ICCV
-- DiMP: Learning Discriminative Model Prediction for Tracking. [[paper](https://arxiv.org/pdf/1904.07220.pdf)]
+- **DiMP**: Learning Discriminative Model Prediction for Tracking. [[paper](https://arxiv.org/pdf/1904.07220.pdf)]
+- **GradNet**: Gradient-Guided Network for Visual Object Tracking. [[code](https://github.com/LPXTT/GradNet-Tensorflow)]
+- **MLT**: Deep Meta Learning for Real-Time Target-Aware Visual Tracking.
+- Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking. [[code](https://github.com/XU-TIANYANG/
+GFS-DCF)]
+- **SPLT**: Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking. [[code](https://github.com/iiau-tracker/SPLT)]
+- Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking.
+- Bridging the Gap Between Detection and Tracking: A Unified Approach.
