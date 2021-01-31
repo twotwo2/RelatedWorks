@@ -51,8 +51,10 @@ Visual Tracking.
 
 
 ## ICCV
-- **DiMP**: Learning Discriminative Model Prediction for Tracking. [[paper](https://arxiv.org/pdf/1904.07220.pdf)]
+- **DiMP**: Learning Discriminative Model Prediction for Tracking. [[paper](https://arxiv.org/pdf/1904.07220.pdf)] [[code](https://github.com/visionml/pytracking)]
 - **GradNet**: Gradient-Guided Network for Visual Object Tracking. [[code](https://github.com/LPXTT/GradNet-Tensorflow)]
+- **UpdateNet**: Learning the Model Update for Siamese Trackers. [[code](https://github.com/zhanglichao/
+updatenet)]
 - **MLT**: Deep Meta Learning for Real-Time Target-Aware Visual Tracking.
 - Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking. [[code](https://github.com/XU-TIANYANG/
 GFS-DCF)]
